@@ -1,6 +1,6 @@
 :root{
-    -Cyan: #2ab2af;
-    -BrightYellow: #c0df34;
-    -LightGray: #e5eff5;
-    -GrayishBlue: #98a6bd;
+    --Cyan: #2ab2af;
+    --BrightYellow: #c0df34;
+    --LightGray: #e5eff5;
+    --GrayishBlue: #98a6bd;
 }
